@@ -1,2 +1,3 @@
-# Cecho
- 使echo带颜色的命令行工具（转载）
+# cecho
+
+Windows CMD echo 着色器（转载）
